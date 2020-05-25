@@ -1,5 +1,3 @@
-- I0
 - Ingredient 1
 - Ingredient 2
 - 1/2 onion
-- In
